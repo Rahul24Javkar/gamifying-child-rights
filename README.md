@@ -44,14 +44,13 @@ This project is a gamification platform designed to educate small children about
    npm start 
 
 ## **Screenshots**
-
+- Sign up page
 ![WhatsApp Image 2025-01-07 at 13 48 40_73353a4d](https://github.com/user-attachments/assets/39f9640b-72d3-4b39-ba48-43d050176909)
 
+- Home page
+![WhatsApp Image 2025-01-07 at 13 56 28_ab3eba2b](https://github.com/user-attachments/assets/ae36e89d-3a73-40ea-9d4c-9e4b297ba8d6)
+
+-Tic Tac Toe page
 ![WhatsApp Image 2025-01-07 at 13 48 40_f8993d4f](https://github.com/user-attachments/assets/55ab9612-7d8b-41fa-bd64-40336d7ab35a)
 
-![WhatsApp Image 2025-01-07 at 13 48 40_344e45ea](https://github.com/user-attachments/assets/8c8128df-fea4-49a6-aab3-f523610455df)
-
-![WhatsApp Image 2025-01-07 at 13 48 41_e9b0cdc9](https://github.com/user-attachments/assets/a1b1bf43-d4ab-4930-9793-79b60fbc6437)
-
-![WhatsApp Image 2025-01-07 at 13 48 40_a2c96787](https://github.com/user-attachments/assets/d8007f03-ea09-4a0f-93ee-2766a045090e)
 
