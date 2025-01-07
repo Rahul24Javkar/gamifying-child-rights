@@ -58,8 +58,13 @@ This project is a gamification platform designed to educate small children about
   
 ![WhatsApp Image 2025-01-07 at 13 48 40_f8993d4f](https://github.com/user-attachments/assets/55ab9612-7d8b-41fa-bd64-40336d7ab35a)
 
-## **Contact**
 
+## **Contact**
+For any questions or contributions, feel free to reach out:
+Rahul Javkar
+
+- Email: your-rahul.javkar@outlook.com
+- GitHub: https://github.com/Rahul24Javkar
 
 Let me know if you want to add or tweak anything! 😊
 
